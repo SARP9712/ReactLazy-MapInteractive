@@ -31,3 +31,10 @@ Este proyecto es una aplicación React que muestra un mapa interactivo del mundo
 ```bash
 git clone https://github.com/tu-usuario/mapa-interactivo-lazyloading.git
 cd mapa-interactivo-lazyloading
+
+
+## Uso
+
+- Haz clic en cualquier país del mapa para abrir el modal con sus datos.
+- El modal se carga de forma diferida para optimizar el rendimiento.
+- Puedes cerrar el modal haciendo clic en la "×" en la esquina superior derecha.
